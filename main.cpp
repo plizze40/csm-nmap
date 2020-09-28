@@ -2,8 +2,6 @@
 #include <iostream>
 #include <filesystem>
 #include "bytebuffer.h"
-#include "base64.h"
-#include <nlohmann/json.hpp>
 
 struct MapHeader 
 {
